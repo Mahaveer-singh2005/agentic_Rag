@@ -14,3 +14,4 @@ langgraph-cli[inmem]
 langchain-google-genai
 tiktoken
 faiss-cpu
+streamlit
